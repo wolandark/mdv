@@ -7,3 +7,11 @@ Simple Markdown Viewer in C
 `sudo pacman -S gtk3 webkit2gtk cmark glib2`
 
 then run `make` in the root of the project
+
+### Features
+It can wash your dishes and tell you that your ex didn't deserve you! \s
+
+ITS A MARKDOWN VIEWER IT HAS NO FEATURES
+
+### License
+WTFPL
